@@ -1,0 +1,8 @@
+2015/07/10 11:22
+download make-3.81-bin.zip, make-3.81-dep.zip
+    url: http://gnuwin32.sourceforge.net/packages/make.htm
+    version: 3.81
+file:
+    + libiconv2.dll     (copy from make-3.81-dep/bin/libiconv2.dll)
+    + libintl3.dll      (copy from make-3.81-dep/bin/libintl3.dll)
+    + make.exe          (copy from make-3.81-bin.zip/bin/make.exe)

@@ -1,0 +1,2 @@
+2015/07/06 10:34
+A hello world for JAVA Robot.
